@@ -6,6 +6,7 @@
 
   <p align="center"><a href="http://nodejs.org" target="blank">Muvick</a> is an on-demand streaming platform where each user can watch their favorite movies and series and can get recommendations depending on their movies or series seen.</p>
     <p align="center">
+
 ## Features
 
 - <a href="http://nodejs.org" target="blank">Muvick</a> is an on-demand streaming platform.
